@@ -1,4 +1,4 @@
-### Engenheiro de software / Engenheiro de Requisitos / Analista de Negócios / Especiialista em Propriedade Intelectual 👋
+### Engenheiro de software / Engenheiro de Requisitos / Analista de Negócios / Especialista em Propriedade Intelectual 👋
 
 <!--
 **engjoaobosco/engjoaobosco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
